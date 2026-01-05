@@ -1,16 +1,39 @@
-# snapp
+# نام پروژه
 
-A new Flutter project.
+توضیح کوتاه و ساده درباره پروژه.
+این پروژه یک نمونه تمرینی برای پیاده‌سازی رابط کاربری (UI) اپلیکیشن اسنپ با استفاده از Flutter است.
+تمرکز پروژه روی طراحی ظاهری، تم روشن و تاریک (Light / Dark Theme)، ویجت‌های سفارشی و ساختار تمیز کد بوده است.
+.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 هدف پروژه
 
-A few resources to get you started if this is your first Flutter project:
+- تمرین مفاهیم اصلی
+- بهبود ساختار کدنویسی
+- پیاده‌سازی رابط کاربری
+- آشنایی با ابزارها و معماری پروژه
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ ویژگی‌ها
+
+- پیاده‌سازی بخش‌های اصلی پروژه
+- استفاده از ویجت‌ها / کامپوننت‌های سفارشی
+- ساختار تمیز و قابل توسعه
+- مناسب برای یادگیری و تمرین
+
+
+---
+
+## 🏗 ساختار پروژه
+
+```text
+lib/
+├── components/
+├── constants/
+├── models/
+├── screens/
+├── services/
+├── widgets/
+└── main.dart
